@@ -3,9 +3,9 @@
 The goal of this repo is be an example of a basic but functional app built on Express and Webpack.
 
 
-## What we covered
+## What App covered
 
-We covered:
+App covered:
 
 - Transpiling Sass to CSS using Webpack
 - Fixing Javascript event errors
